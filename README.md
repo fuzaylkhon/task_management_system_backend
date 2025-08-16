@@ -1,4 +1,4 @@
-# Task Management System - Frontend
+# Task Management System - Backend API
 
 ## 🚀 Quick Start
 
@@ -9,9 +9,9 @@ npm install
 
 # Setup environment variables
 cp .env.example .env
-# Edit .env with your API URL
+# Edit .env with your configurations
 
 # Run development server
 npm run dev
 
-# App runs on http://localhost:3000
+# Server runs on http://localhost:5000
